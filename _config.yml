@@ -10,15 +10,15 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Long Jing Hu Meng"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "feyman2009"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "feyman2009"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Coder, Dotaer"
   location         : "Somewhere"
-  email            :
+  email            : feyman2009@aliyun.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
